@@ -21,7 +21,7 @@ struct Rest {
 }
 
 enum Hobby: String {
-    case one = "swimming"
+    case one = "swimming" 
     case two = "drawing"
     case three = "reading"
     case four = "cooking"
